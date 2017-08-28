@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TrainerNET</string>
+
+
+    <!--Strings for the login activity-->
+    <string name="successful_login">Login Successful</string>
+    <string name="unsuccessful_login">Invalid Login</string>
+    <string name="stored_username">jdoe</string>
+    <string name="stored_password">welcome1</string>
+    <string name="login_button">Login</string>
+    <string name="username_prompt">Enter Your Username.</string>
+    <string name="password_prompt">Enter Your Password.</string>
+</resources>
