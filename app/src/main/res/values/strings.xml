@@ -10,4 +10,54 @@
     <string name="login_button">Login</string>
     <string name="username_prompt">Enter Your Username.</string>
     <string name="password_prompt">Enter Your Password.</string>
+
+    <!--Strings for the Billing Information/Submit Payment activity-->
+    <string name="save_billing_button">Save Billing Info</string>
+    <string name="payment_amount_TV">Payment Amount</string>
+    <string name="todays_date_TV">Today\'s Date</string>
+    <string name="receipt_sent_TV">Receipt Sent Via:</string>
+    <string name="printer_RB">Printer</string>
+    <string name="email_RB">E-mail</string>
+    <string name="submit_payment_BT">Submit Payment</string>
+
+    <!--Strings for the Complete Session activity-->
+    <string name="complete_session_title">Complete Session For</string>
+    <string name="session_date">Session Date:</string>
+    <string name="sign_here_instruction">Sign Here and Press Finished</string>
+    <string name="finish_signing">Finished</string>
+
+    <!--Strings for the Customer List activity-->
+    <string name="customer_list_title">Customer List</string>
+    <string name="view_sessions_button">View Sessions</string>
+    <string name="edit_info_button">Edit Info</string>
+    <string name="add_new_customer_button">Add New Customer</string>
+
+    <!--Strings for the Customer Sessions activity-->
+    <string name="customer_sessions_title">Customer Sessions For</string>
+    <string name="customer_sessions_date_heading">Date</string>
+    <string name="customer_sessions_comp_heading">Completed</string>
+    <string name="complete_session_button">Collect Signature and Complete Session</string>
+    <string name="schedule_session_button">Schedule Session</string>
+    <string name="update_billing_button">Update Billing Info</string>
+
+    <!--Strings for the New Customer activity-->
+    <string name="new_customer_title">New Customer Entry</string>
+    <string name="new_customer_last_name">Last Name</string>
+    <string name="new_customer_first_name">First Name</string>
+    <string name="new_customer_address">Address</string>
+    <string name="new_customer_city">City</string>
+    <string name="new_customer_state">State</string>
+    <string name="new_customer_zip">ZIP Code</string>
+    <string name="new_customer_phone">Phone</string>
+    <string name="new_customer_add_picture_button">Add Picture</string>
+    <string name="new_customer_billing_info_button">Billing Info</string>
+    <string name="new_customer_save_button">Save Customer Info</string>
+    <string name="new_customer_discard_button">Discard Changes</string>
+
+    <!--Strings for the New Sessions activity-->
+    <string name="new_sessions_title">New Sessions For</string>
+    <string name="amount_paid_title">Amount Paid:</string>
+    <string name="new_sessions_date_heading">Date</string>
+    <string name="new_sessions_cost_heading">Cost</string>
+    <string name="new_sessions_schedule_button">Schedule Session</string>
 </resources>
