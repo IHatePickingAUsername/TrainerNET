@@ -60,4 +60,7 @@
     <string name="new_sessions_date_heading">Date</string>
     <string name="new_sessions_cost_heading">Cost</string>
     <string name="new_sessions_schedule_button">Schedule Session</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

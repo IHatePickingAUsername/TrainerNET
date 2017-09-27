@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             tools:context="com.bignerdranch.android.trainernet.ButtonsFragment">
+
+    <Button
+        android:id="@+id/button_customer_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Customer List"/>
+
+    <Button
+        android:id="@+id/button_sessions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sessions"/>
+
+    <Button
+        android:id="@+id/button_new_customer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="0"
+        android:text="New Customer"/>
+
+    <Button
+        android:id="@+id/button_billing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="2"
+        android:layout_row="0"
+        android:text="Billing Info"/>
+
+    <Button
+        android:id="@+id/button_new_sessions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="1"
+        android:text="New Sessions"/>
+
+    <Button
+        android:id="@+id/button_complete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="2"
+        android:layout_row="1"
+        android:text="Complete"/>
+</GridLayout>
